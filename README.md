@@ -16,7 +16,7 @@ This repository contains materials for data mining
 
 ## LABS
 
-| THEORY LESSON                |  Resource                        |  Study notes                     |
+| PRATICAL LESSON                |  Resource                        |  Study notes                     |
 |------------------------------|----------------------------------|----------------------------------|
 | LAB 1  | |
 | LAB 2  | |
