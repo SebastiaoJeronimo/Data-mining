@@ -29,6 +29,4 @@ This repository contains materials for data mining
 
 [DATA MINING PROJECT (NOVA IMS)](https://github.com/SebastiaoJeronimo/Data-Mining-Project)
 
-## MY INDIVIDUAL NOTES OF THE PROJECT
-
 
